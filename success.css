@@ -1,0 +1,15 @@
+
+
+footer{
+  position: relative;
+  bottom: 0;
+}
+
+.successful{
+  font-size: 20px;
+  margin: 5px;
+  word-spacing: 3px;
+  font-weight: 400;
+  padding-bottom: 50px;
+}
+
